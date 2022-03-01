@@ -1,0 +1,15 @@
+h1, h2 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	color: blue;
+}
+body {
+	background: url(student.jpg) no-repeat top right, url(elementarystudent.png)no-repeat bottom left, #FFF8DC;
+}
+Figure {
+	text-align: center;
+}
+figcaption {
+	font-size: 0.8em;
+	font-style: italic;
+}
