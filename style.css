@@ -1,13 +1,17 @@
-h1, h2 {
-  font-family: Chalkduster, fantasy;
+ h1, h2 {
+  font-family: "Times New Roman", Times, serif;
   text-align: center;
 }
 
 nav {
-  text-align: center;
-  font-family: Chalkduster, fantasy;
-}
-
- body {
-  background-image: url("wp3073328.jpeg");
+ font-family: "Times New Roman", Times, serif;
+ text-align: left;
  }
+
+body {
+  background-image: url(images/wp3073328.jpeg) 
+ }
+
+ 
+ 
+ 
